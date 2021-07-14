@@ -33,4 +33,3 @@ switch($edad)
         echo "Valor por defecto"
 }
 
-?>
